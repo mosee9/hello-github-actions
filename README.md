@@ -1,2 +1,2 @@
 # hello-github-actions
-a simpel github actions example
+a simple github actions example
